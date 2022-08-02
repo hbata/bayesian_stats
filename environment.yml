@@ -8,7 +8,6 @@ dependencies:
 - python>=3.8
 - jupyter
 - jupyterlab>=3.0
-- pymc3==3.11.2
 - pip
 - seaborn
 - matplotlib
